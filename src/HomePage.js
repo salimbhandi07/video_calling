@@ -23,7 +23,7 @@ function HomePage() {
           />
         </div>
         <button className="btn-submit" type="submit">
-          Enter room
+          Enter Room
         </button>
       </form>
     </div>
