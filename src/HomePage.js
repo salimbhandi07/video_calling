@@ -13,7 +13,7 @@ function HomePage() {
     <div className="home-page">
       <form className=".form" onSubmit={handleSubmit}>
         <div>
-          <h1 className="heading">Enter Room code</h1>
+          <h1 className="heading">Enter Room Code</h1>
           <input
             className="input-text"
             type="text"
